@@ -78,7 +78,7 @@
                     figure
                       img(src='@/assets/curso/tema1/7.svg')
                   .col-lg-7(style="place-self:center;")
-                    p.fw-bold Asignación Inicial del Caso. 
+                    p.fw-bold Asignación inicial del caso. 
                     p.mt-4 Asignar la petición a un técnico disponible con el nivel de experiencia adecuado para el tipo de problema presentado. La asignación debe ser rápida y precisa para optimizar los recursos humanos.
                 .row.p-4.ps-5.pe-5
                   .col-lg-5.d-none.d-lg-block
@@ -127,7 +127,7 @@
                     figure
                       img(src='@/assets/curso/tema1/7.svg')
                   .col-lg-7(style="place-self:center;")
-                    p.fw-bold Cierre de Caso y Registro Final. 
+                    p.fw-bold Cierre de caso y registro final. 
                     p.mt-4 Documentar todos los detalles de la resolución, actualizando el historial del equipo y de la cuenta del cliente. Finalizar con una notificación de cierre al cliente y registrar cualquier retroalimentación para mejorar el proceso de soporte en el futuro.
     
     .titulo-sexto.color-acento-contenido.mt-5(data-aos="fade-down")
@@ -135,7 +135,8 @@
       span Proceso para la gestión de peticiones y escalamiento
     figure(data-aos="zoom-in")
       img(src="@/assets/curso/tema1/8.svg" alt="La Figura 1 se denomina «Proceso para la gestión de peticiones y escalamiento» y presenta esta orientación a partir de diez acciones desde la recepción de la solicitud hasta el cierre del caso.")
-    figcaption.fw-normal.mt-1 #[strong Fuente:] OIT, 2024.
+    figcaption.fw-normal.mt-1.mb-3 #[strong Fuente:] OIT, 2024.
+    p La Figura 1 se denomina «Proceso para la gestión de peticiones y escalamiento» y presenta esta orientación a partir de diez acciones desde la recepción de la solicitud hasta el cierre del caso.
 
     Separador
 

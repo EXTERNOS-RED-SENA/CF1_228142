@@ -36,7 +36,7 @@
           .row.p-lg-5
             .col-lg-7
               h4 Análisis y reportes de métricas de desempeño: 
-              p.mt-4 Permiten generar reportes sobre métricas, como los tiempos de respuesta y resolución, el volumen de #[em tickets] atendidos y los índices de satisfacción del cliente. Este análisis ayuda al equipo de soporte a identificar áreas de mejora, ajustar recursos según las demandas y garantizar que se cumplen los #[em SLAs]. Además, permite una toma de decisiones informada que impulsa la eficiencia y la calidad del servicio.
+              p.mt-4 Permiten generar reportes sobre métricas, como los tiempos de respuesta y resolución, el volumen de #[em tickets] atendidos y los índices de satisfacción del cliente. Este análisis ayuda al equipo de soporte a identificar áreas de mejora, ajustar recursos según las demandas y garantizar que se cumplan los #[em SLAs]. Además, permite una toma de decisiones informada que impulsa la eficiencia y la calidad del servicio.
             .col-lg-5.col-11.col-m2-7.m-auto
               figure
                 img(src='@/assets/curso/tema3/4.png')
@@ -98,12 +98,12 @@
           tr.bg-white
             td.fw-bold(style="background-color:#EBF6EA;") Zendesk
             td  Plataforma flexible con soporte omnicanal (correo, chat, redes sociales)
-            td  Gestión de tickets, base de conocimientos, informes personalizados
+            td  Gestión de #[em tickets], base de conocimientos, informes personalizados
             td  Intuitiva, personalizable, se integra con múltiples apps
             td  Costosa para empresas pequeñas; curva de aprendizaje inicial
           tr.bg-white
             td.fw-bold(style="background-color:#EBF6EA;") Freshdesk
-            td  Interface fácil de usar con múltiples opciones de automatización
+            td  #[em Interface] fácil de usar con múltiples opciones de automatización
             td  Gestión de #[em tickets], #[em chatbot] de IA, análisis de productividad
             td  Escalable, asequible para pymes, excelente soporte
             td  Limitaciones en personalización en planes básicos
@@ -228,8 +228,9 @@
         h5 Figura 3.
         span Características de un formato de servicio
       figure(data-aos="fade-up")
-        img(src="@/assets/curso/tema3/10.svg" alt="La Figura 3 se denomina «Características de un formato de Servicio» en donde se encuentran los parámetros a tener en cuenta para medir el rendimiento, detectar áreas de mejora y garantizar que el servicio prestado cumpla con las expectativas del cliente.")
-      figcaption.mt-3.fw-normal #[strong Fuente:] OIT, 2024.
+        img(src="@/assets/curso/tema3/10.svg" alt="La Figura 3 se denomina «Características de un formato de servicio» en donde se encuentran los parámetros a tener en cuenta para medir el rendimiento, detectar áreas de mejora y garantizar que el servicio prestado cumpla con las expectativas del cliente.")
+      figcaption.mt-3.fw-normal.mb-3 #[strong Fuente:] OIT, 2024.
+      p La Figura 3 se denomina «Características de un formato de servicio» e indica que debe tener claridad y organización, campos específicos y relevantes, flexibilidad e integración con los sistemas de gestión.
     
     p.mt-5(data-aos="fade-right") Variables de métricas y sus definiciones:
 
@@ -267,7 +268,7 @@
             figure
               img(src="@/assets/curso/tema3/14.svg")
           .col-md
-            p.mb-0.fw-bold En conclusión, el uso de métricas y evaluación del servicio en soporte técnico es relevante para gestionar el rendimiento, cumplir con los estándares de calidad y fomentar la mejora continua en la atención al cliente. Al evaluar constantemente estos indicadores, las organizaciones pueden asegurar una operación de soporte eficiente y alineada con las expectativas del cliente
+            p.mb-0.fw-bold En conclusión, el uso de métricas y evaluación del servicio en soporte técnico es relevante para gestionar el rendimiento, cumplir con los estándares de calidad y fomentar la mejora continua en la atención al cliente. Al evaluar constantemente estos indicadores, las organizaciones pueden asegurar una operación de soporte eficiente y alineada con las expectativas del cliente.
     
 
 

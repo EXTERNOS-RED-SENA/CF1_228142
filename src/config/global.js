@@ -56,7 +56,7 @@ export default {
       {
         nombreRuta: 'tema2',
         numero: '2',
-        titulo: 'Gestión de Incidentes',
+        titulo: 'Gestión de incidentes',
         desarrolloContenidos: true,
         subMenu: [
           {
@@ -79,7 +79,7 @@ export default {
       {
         nombreRuta: 'tema3',
         numero: '3',
-        titulo: 'Herramientas de Gestión',
+        titulo: 'Herramientas de gestión',
         desarrolloContenidos: true,
         subMenu: [
           {
@@ -155,21 +155,21 @@ export default {
     {
       tema: '1.  Fundamentos del servicio técnico',
       referencia:
-        'Ecosistema de Recursos Educativos Digitales SENA. (2023, junio 5). <em>Protocolo de atención al cliente</em>',
+        'Ecosistema de Recursos Educativos Digitales SENA. (2023, junio 5). <em>Protocolo de atención al cliente</em>.',
       tipo: 'Video',
       link: 'https://www.youtube.com/watch?v=M0WqQBa3sRI ',
     },
     {
       tema: '2. Gestión de incidentes',
       referencia:
-        'Ecosistema de Recursos Educativos Digitales SENA. (2022, mayo 20). <em>Protocolo de atención al cliente Interpretación de indicadores de gestión (KPI)</em>',
+        'Ecosistema de Recursos Educativos Digitales SENA. (2022, mayo 20). <em>Protocolo de atención al cliente Interpretación de indicadores de gestión (KPI)</em>.',
       tipo: 'Video',
       link: 'https://www.youtube.com/watch?v=nCUYv5oPwJY ',
     },
     {
       tema: '2. Gestión de incidentes',
       referencia:
-        'Ecosistema de Recursos Educativos Digitales SENA. (2022, mayo 20). <em>Gestión de requerimientos e indicadores de gestión</em>',
+        'Ecosistema de Recursos Educativos Digitales SENA. (2022, mayo 20). <em>Gestión de requerimientos e indicadores de gestión</em>.',
       tipo: 'Video',
       link:
         'https://www.youtube.com/watch?v=8hHQ0i5spgs&list=PLkc5n6npRWkhgy8-__7eMfcC5nnMlV2TJ&index=8 ',
@@ -177,7 +177,7 @@ export default {
     {
       tema: '3.Herramientas de gestión',
       referencia:
-        'Ecosistema de Recursos Educativos Digitales SENA. (2022, agosto30). <em>Evaluación de métricas y controles</em>',
+        'Ecosistema de Recursos Educativos Digitales SENA. (2022, agosto30). <em>Evaluación de métricas y controles</em>.',
       tipo: 'Video',
       link: 'https://www.youtube.com/watch?v=ZPDlu3ReTps ',
     },

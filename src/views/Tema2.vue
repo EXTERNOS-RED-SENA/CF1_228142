@@ -41,11 +41,11 @@
         caption.fw-normal #[strong Fuente.] OIT, 2024.
         thead
           tr.text-center(style="background-color:#EFE8F7;")
-            th Clasificación del Incidente
+            th Clasificación del incidente
             th Gravedad
             th Urgencia
-            th Tipo de Equipo Afectado
-            th Impacto en el Cliente
+            th Tipo de equipo afectado
+            th Impacto en el cliente
         tbody
           tr.bg-white
             td.fw-bold(style="background-color:#EBF6EA;") 1. Falla crítica en equipo principal
@@ -78,7 +78,7 @@
             td.text-center #[em Software] de gestión o especializado
             td.text-center #[strong Medio:] limita tareas específicas del usuario
           tr.bg-white
-            td.fw-bold(style="background-color:#EBF6EA;") 6. Fallo de conexión a internet
+            td.fw-bold(style="background-color:#EBF6EA;") 6. Fallo de conexión a Internet
             td.text-center Alta
             td.text-center Alta
             td.text-center #[em Modem] o #[em router]
@@ -88,7 +88,7 @@
             td.text-center Baja
             td.text-center Baja
             td.text-center Sistema operativo o #[em software]
-            td.text-center #[em Bajo:] no afecta operaciones actuales del cliente
+            td.text-center #[em #[strong Bajo:]] no afecta operaciones actuales del cliente
           tr.bg-white
             td.fw-bold(style="background-color:#EBF6EA;") 8. Problema con respaldo de datos
             td.text-center Alta
@@ -155,7 +155,7 @@
     .titulo-segundo(data-aos="flip-up")
       h2#t_2_3 2.3 Tiempos de atención y #[em SLAs]
     
-    p(data-aos="fade-right") En el soporte técnico y atención al cliente para la reparación de equipos, los Tiempos de atención y los Acuerdos de Nivel de Servicio (#[em SLAs], por sus siglas en inglés: #[em Service Level Agreements]) son parámetros que establecen los estándares de calidad, eficiencia y responsabilidad en el servicio. Es importante tener en cuenta los conceptos de cada una de estos, así:
+    p(data-aos="fade-right") En el soporte técnico y atención al cliente para la reparación de equipos, los tiempos de atención y los Acuerdos de Nivel de Servicio (#[em SLAs], por sus siglas en inglés: #[em Service Level Agreements]) son parámetros que establecen los estándares de calidad, eficiencia y responsabilidad en el servicio. Es importante tener en cuenta los conceptos de cada uno de estos, así:
 
     .row.mt-4
       .col-lg.mb-4.mb-lg-0(data-aos="zoom-in" data-aos-duration="850")
