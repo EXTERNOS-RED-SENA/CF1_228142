@@ -198,6 +198,7 @@
         figure(data-aos="fade-up")
           img(src="@/assets/curso/tema3/8.svg" alt="La Figura 2 se denomina «Características de un formato de servicio» e indica que debe tener claridad y organización, campos específicos y relevantes, flexibilidad e integración con los sistemas de gestión.")
         figcaption.mt-2.fw-normal #[strong Fuente:] OIT, 2024.
+        p.mb-4 La imagen presenta cuatro principios clave para el diseño de formatos en la gestión de soporte. El diseño de formatos para la gestión de soporte debe ser claro, organizado y con campos específicos que capturen información clave. Deben permitir actualizaciones en tiempo real para casos complejos y estar integrados con sistemas de gestión como #[em Help Desk], centralizando la información y evitando duplicidades. 
     
     p.mt-5(data-aos="fade-right") En conclusión, los formatos y registros de servicio son la base de una gestión de soporte técnico organizada y eficiente. Facilitan la comunicación, aseguran el cumplimiento de los SLAs y apoyan la mejora continua, generando una experiencia de servicio confiable y de alta calidad para los clientes.
 
@@ -230,7 +231,7 @@
       figure(data-aos="fade-up")
         img(src="@/assets/curso/tema3/10.svg" alt="La Figura 3 se denomina «Características de un formato de servicio» en donde se encuentran los parámetros a tener en cuenta para medir el rendimiento, detectar áreas de mejora y garantizar que el servicio prestado cumpla con las expectativas del cliente.")
       figcaption.mt-3.fw-normal.mb-3 #[strong Fuente:] OIT, 2024.
-      p La Figura 3 se denomina «Características de un formato de servicio» e indica que debe tener claridad y organización, campos específicos y relevantes, flexibilidad e integración con los sistemas de gestión.
+      p La imagen representa un ciclo de mejora continua en la gestión de soporte.  incluye definir objetivos claros y medibles, recolectar y analizar datos clave, desarrollar planes de mejora concretos, implementarlos y monitorear su impacto para ajustes futuros. Este proceso busca optimizar la calidad del servicio y la satisfacción del cliente de manera constante.
     
     p.mt-5(data-aos="fade-right") Variables de métricas y sus definiciones:
 

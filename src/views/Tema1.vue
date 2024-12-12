@@ -136,7 +136,7 @@
     figure(data-aos="zoom-in")
       img(src="@/assets/curso/tema1/8.svg" alt="La Figura 1 se denomina «Proceso para la gestión de peticiones y escalamiento» y presenta esta orientación a partir de diez acciones desde la recepción de la solicitud hasta el cierre del caso.")
     figcaption.fw-normal.mt-1.mb-3 #[strong Fuente:] OIT, 2024.
-    p La Figura 1 se denomina «Proceso para la gestión de peticiones y escalamiento» y presenta esta orientación a partir de diez acciones desde la recepción de la solicitud hasta el cierre del caso.
+    p.mb-4 El flujo describe el proceso de gestión de casos, comenzando con la recepción y clasificación de la solicitud según su urgencia y complejidad, seguido de la asignación a un técnico adecuado. Incluye un diagnóstico inicial, escalamiento automático en casos complejos y notificación constante al cliente sobre el progreso. Para casos avanzados, se realiza una revisión especializada y coordinación interdepartamental. Finalmente, se valida la resolución con el cliente y se documenta el cierre del caso para mejorar futuros procesos.
 
     Separador
 
