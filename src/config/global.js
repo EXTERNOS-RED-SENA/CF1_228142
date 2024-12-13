@@ -263,8 +263,7 @@ export default {
     {
       referencia:
         'Arellano-González, A., Carballo-Mendivil, B., Acosta-Quintana, M. P., López-Torres, V. G. (2017). Planeación de la logística de la recepción y entrega de mercancía en una empresa que ofrece servicios de paquetería y carga. Revista de Negocios & PyMES, 3(8), 9-22. ',
-      link:
-        'https://www.ecorfan.org/spain/researchjournals/Negocios_y _PyMES/vol3num8/Revista_de_Negocios_&_PYMES_V3_N8_2.pdf',
+      link: '',
     },
     {
       referencia:
@@ -274,7 +273,7 @@ export default {
     {
       referencia:
         'Duque Oliva, E. J., Diosa Gómez, Y. (2014). Evolución conceptual de los modelos de medición de la percepción de calidad del servicio: Una mirada desde la educación superior. Suma de Negocios, 5(12), 180-191. ',
-      link: 'https://d oi.org/10.1016/S2215-910X(14)70040-0',
+      link: '',
     },
     {
       referencia:
@@ -289,8 +288,7 @@ export default {
     {
       referencia:
         'Morillo, M. del C., Morillo, M. C., & Rivas, D. (2011). Medición de la calidad del servicio en las instituciones financieras a través de la escala de Servqual. <em>Contaduría y Administración</em>, 234, 101-130. ',
-      link:
-        'http://www.scielo.org.mx/scielo.php?script=sci_arttext&pid=S018610422011000200006',
+      link: '',
     },
     {
       referencia:
@@ -300,8 +298,7 @@ export default {
     {
       referencia:
         'Robayo, A. (2017). <em>La importancia del servicio al cliente y el reflejo de las ventas en una empresa</em> (Tesis de grado, Universidad Militar Nueva Granda). Repositorio Institucional UMNG. ',
-      link:
-        'https://repository.unimilitar.edu.co/bitstream/handle/10654/16203/Robayo RodriguezAl ejandro2017.pdf?sequence=1&isAllowed=y',
+      link: '',
     },
     {
       referencia:
