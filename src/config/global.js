@@ -258,7 +258,7 @@ export default {
     {
       referencia:
         'Arellano-Díaz, H. O. (2017). La calidad en el servicio como ventaja competitiva. Revista científica dominio de las ciencias, 3, 72-83. ',
-      link: 'https://doi.org/10.238 57/dc.v3i3%20mon.627 ',
+      link: '',
     },
     {
       referencia:
